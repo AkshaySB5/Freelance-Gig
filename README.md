@@ -9,23 +9,7 @@ A full-stack Freelance Gig Marketplace application, comprising a **Django REST F
 1. [Project Overview](#project-overview)  
 2. [Features](#features)  
 3. [Tech Stack](#tech-stack)  
-4. [Directory Structure](#directory-structure)  
-5. [Prerequisites](#prerequisites)  
-6. [Installation & Setup](#installation--setup)  
-   1. [Backend Setup (Django)](#backend-setup-django)  
-   2. [Frontend Setup (React)](#frontend-setup-react)  
-7. [Configuration](#configuration)  
-   1. [Environment Variables (Backend)](#environment-variables-backend)  
-   2. [Environment Variables (Frontend)](#environment-variables-frontend)  
-8. [Database Migrations & Superuser](#database-migrations--superuser)  
-9. [Running the Application](#running-the-application)  
-   1. [Start Backend Server](#start-backend-server)  
-   2. [Start Frontend Server](#start-frontend-server)  
-10. [API Endpoints](#api-endpoints)  
-11. [Usage](#usage)  
-12. [Contributing](#contributing)  
-13. [License](#license)  
-14. [Contact](#contact)  
+
 
 ---
 
