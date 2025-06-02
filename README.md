@@ -82,5 +82,5 @@ Both the frontend (React + Tailwind CSS) and backend (Django REST Framework + Po
 
 ---
 
-## Directory Structure
+
 
